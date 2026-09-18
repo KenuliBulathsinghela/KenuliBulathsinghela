@@ -51,12 +51,3 @@ I'm interested in connecting with professionals and teams working in **Project M
 🌐 **Portfolio:** [https://kenuli-bulathsinghela-portfolio.onrender.com](https://kenuli-bulathsinghela-portfolio.onrender.com)
 
 ---
-
-<p align="center">
-
-### 🚀 Plan. Analyze. Build. Deliver.
-
-**Project Management • Business Analysis • Technology • Data**
-
-</p>
-
