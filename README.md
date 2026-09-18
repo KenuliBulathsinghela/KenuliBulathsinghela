@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenuli Bulathsinghela
 
-### 🚀 Project Management | 📋 Business Analysis | 💻 Technology | 📊 Data Analytics
+### 🚀 Project Management | 📋 Business Analysis | 💻 Technology
 
 > **Bridging people, processes, and technology to turn ideas into practical solutions.**
 
@@ -18,16 +18,12 @@ I enjoy working across the project lifecycle, from planning and coordinating act
                          │
                          ▼
 📋 BUSINESS ANALYSIS
-   Requirements • Processes • Documentation • Stakeholders
+   Requirements • Processes • Documentation • Stakeholders • KPIs • Dashboards • Insights • Decision Support
                          │
                          ▼
 💻 TECHNOLOGY
    Development • Databases • APIs • System Understanding
-                         │
-                         ▼
-📊 DATA ANALYTICS
-   KPIs • Dashboards • Insights • Decision Support
-
+                         
 ```
 ---
 
