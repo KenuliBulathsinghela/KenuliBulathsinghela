@@ -25,7 +25,3 @@ can actually act on.
 | [Data Analytics Portfolio](https://github.com/KenuliBulathsinghela/Data-Analytics-Portfolio-Python) | Churn prediction, customer segmentation, and sales analysis in Python and SQL |
 | [Business Intelligence Projects](https://github.com/KenuliBulathsinghela/Business-Intelligence-Projects) | Power BI dashboards built over multiple data sources |
 | [RentMate](https://github.com/KenuliBulathsinghela/RentMate) | Flutter app for boarding and rental management with roommate matching |
-
-### Stats
-
-![Kenuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenuliBulathsinghela&show_icons=true&theme=dark)
